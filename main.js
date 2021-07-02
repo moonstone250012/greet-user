@@ -1,0 +1,1 @@
+(()=>{var e=prompt("Enter your name?");document.body.style.backgroundImage='url("https://source.unsplash.com/collection/190727/1600x900")',document.body.style.backgroundRepeat="no-repeat",document.getElementById("name").innerText=e})();
